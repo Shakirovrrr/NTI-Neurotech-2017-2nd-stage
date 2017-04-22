@@ -1,4 +1,4 @@
-# Решения задач второго этапа Олимпиады НТИ, профиль Нейротехнологии
+ # Решения задач второго этапа Олимпиады НТИ, профиль Нейротехнологии
 
 ## EEG.ipynb
 Решения задач первой части.
@@ -29,7 +29,7 @@ General solution for 2nd part.
 Solutions for 3rd part. Not solved or solved incorrectly.
 
 ## dataprep.py
-Contains methods for loading and preparing EEG-data (adapted for current contest tasks).
+Contains methods for loading and preparing EEG data (adapted for current contest tasks).
 
 ## helping.py
 Contains helping methods for data processing.
