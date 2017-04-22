@@ -16,8 +16,8 @@
 Скрипт, содержащий служебные и вспомогательные методы для обработки данных.
 
 ## Использованные библиотеки
-- NumPy
-- SciPy
-- matplotlib
-- PyWavelets
-- Scikit-Learn
+- [NumPy](http://www.numpy.org/)
+- [SciPy](https://www.scipy.org/scipylib/index.html)
+- [matplotlib](https://matplotlib.org/)
+- [PyWavelets](https://pywavelets.readthedocs.io/)
+- [Scikit-Learn](http://scikit-learn.org/)
