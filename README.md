@@ -13,7 +13,7 @@
 Скрипт, содержащий методы для загрузки и подготовки ЭЭГ-данных (приспособлен для решения данных задач).
 
 ## helping.py
-Скрипт, содержащий вспомогательные методы для обработки данных.
+Скрипт, содержащий вспомогательные методы для обработки ЭЭГ-данных.
 
 ----------
 
@@ -32,7 +32,7 @@ Solutions for 3rd part. Not solved or solved incorrectly.
 Contains methods for loading and preparing EEG data (adapted for current contest tasks).
 
 ## helping.py
-Contains helping methods for data processing.
+Contains helping methods for EEG data processing.
 
 ----------
 
